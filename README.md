@@ -18,7 +18,8 @@
 <h3><p align="center">My Favorite Quote 💡</p></h3>
 
 <blockquote class="blockquote blockquote-center">
-<p align="center">You must always be consistent in pursuing a field of knowledge that you are studying. Because by being consistent, you can be like me.</p>
+<p align="center">You must always be consistent in pursuing a field of knowledge that you are studying.</p> 
+<p align="center">Because by being consistent, you can be like me.</p>
 </blockquote>  
 <footer><p align="center">- Bacharuddin Jusuf Habibie -</p></footer>
 
