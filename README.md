@@ -1,10 +1,11 @@
 <h1><p align="center">Hi there traveller, welcome to my page! 😄</p></h1>
-Welcome, it's a pleasure to meet you traveller, please make yourself comfortable while looking at my pages. Here, take your drink 🧋
+
+<p align="justify">Welcome, it's a pleasure to meet you traveller, please make yourself comfortable while looking at my pages. Here, take your drink 🧋</p>
 
 ### Hi, I’m Farqil! 👋
-Actually my name is Farrel, because my name is "pasaran" so I decided to combine my first name "Farrel" with my middle name "Aqilla" and VOILA it's become Farqil.
+<p align="justify">Actually my name is Farrel, because my name is "pasaran" so I decided to combine my first name "Farrel" with my middle name "Aqilla" and VOILA it's become Farqil.</p>
 
-As an Informatics Engineering student, I spend most of my days wrestling with code like it's a wild animal I'm trying to tame. My brain is constantly doing gymnastics, flipping between "Wait, what does this error mean?" and "Oh, I fixed it! Wait... never mind." But despite the endless bugs and late-night debugging marathons, I actually enjoy this madness. There's something weirdly satisfying about turning coffee into code. I may struggle now, but I'm determined to transform from a code-clumsy newbie into a programming ninja-one keystroke at a time!
+<p align="justify">As an Informatics Engineering student, I spend most of my days wrestling with code like it's a wild animal I'm trying to tame. My brain is constantly doing gymnastics, flipping between "Wait, what does this error mean?" and "Oh, I fixed it! Wait... never mind." But despite the endless bugs and late-night debugging marathons, I actually enjoy this madness. There's something weirdly satisfying about turning coffee into code. I may struggle now, but I'm determined to transform from a code-clumsy newbie into a programming ninja-one keystroke at a time!</p>
 
 - 👀 I’m interested in data security
 - 🌱 I’m currently learning a bit of programming languages
@@ -16,8 +17,8 @@ As an Informatics Engineering student, I spend most of my days wrestling with co
 
 <h3><p align="center">My Favorite Quote 💡</p></h3>
 
-<blockquote class="blockquote-center">
-<p class="m-b-0">You must always be consistent in pursuing a field of knowledge that you are studying. Because by being consistent, you can be like me.</p>
+<blockquote class="blockquote blockquote-center">
+<p align="center">You must always be consistent in pursuing a field of knowledge that you are studying. Because by being consistent, you can be like me.</p>
 </blockquote>  
 <footer><p align="center">- Bacharuddin Jusuf Habibie -</p></footer>
 
