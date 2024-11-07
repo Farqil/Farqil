@@ -5,7 +5,7 @@
 ### Hi, I’m Farqil! 👋
 <p align="justify">Actually my name is Farrel, because my name is "pasaran" so I decided to combine my first name "Farrel" with my middle name "Aqilla" and VOILA it's become Farqil.</p>
 
-<p align="justify">As an Informatics Engineering student, I spend most of my days wrestling with code like it's a wild animal I'm trying to tame. My brain is constantly doing gymnastics, flipping between "Wait, what does this error mean?" and "Oh, I fixed it! Wait... never mind." But despite the endless bugs and late-night debugging marathons, I actually enjoy this madness. There's something weirdly satisfying about turning coffee into code. I may struggle now, but I'm determined to transform from a code-clumsy newbie into a programming ninja-one keystroke at a time!</p>
+<p align="justify">As an Informatics student, I spend most of my days wrestling with code like it's a wild animal I'm trying to tame. My brain is constantly doing gymnastics, flipping between "Wait, what does this error mean?" and "Oh, I fixed it! Wait... never mind." But despite the endless bugs and late-night debugging marathons, I actually enjoy this madness. There's something weirdly satisfying about turning coffee into code. I may struggle now, but I'm determined to transform from a code-clumsy newbie into a programming ninja-one keystroke at a time!</p>
 
 - 👀 I’m interested in data security
 - 🌱 I’m currently learning a bit of programming languages
